@@ -1,0 +1,2 @@
+public class UkesOppgaver2 {
+}
